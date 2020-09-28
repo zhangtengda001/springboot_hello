@@ -11,6 +11,6 @@ public class SpringbootHelloApplication {
 
 
         public void test(){
-            System.out.println("你哈哈哈或");
+            System.out.println("你哈哈哈或2");
         }
 }
