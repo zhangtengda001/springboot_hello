@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootHelloApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringbootHelloApplication.class, args);
-    }
+        SpringApplication.run(SpringbootHelloApplication.class, args);}
 
+
+        public void test(){
+            System.out.println("你哈哈哈或");
+        }
 }
